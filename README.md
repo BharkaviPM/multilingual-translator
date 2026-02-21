@@ -124,4 +124,13 @@ git add README.md
 git commit -m "Updated professional README"
 git push
 
+---
+<img width="1542" height="870" alt="Image" src="https://github.com/user-attachments/assets/486a8e90-a8e5-4247-8b2d-3333b198b240" />
+<img width="418" height="578" alt="Image" src="https://github.com/user-attachments/assets/86577a6c-936d-4e5d-b1a8-b9669e781a99" />
+<img width="1742" height="857" alt="Image" src="https://github.com/user-attachments/assets/b8357890-a8a3-4fb8-87e5-d6eaa34d1fdb" />
+<img width="344" height="596" alt="Image" src="https://github.com/user-attachments/assets/62536c87-6dc9-47ed-911a-7a4e4a328ade" />
+
+<img width="1134" height="1010" alt="Image" src="https://github.com/user-attachments/assets/c500a179-e03e-4aa3-ac5c-cc1d788eae82" />
+---
+
 
