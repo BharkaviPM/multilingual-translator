@@ -109,12 +109,6 @@ Custom abbreviation learning
 
 Deployment on Streamlit Cloud
 
-👩‍💻 Author
-
-Bharkavi PM
-
-AI & NLP Enthusiast
-
 ---
 
 # ✅ How To Use This
