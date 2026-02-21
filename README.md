@@ -4,14 +4,14 @@ A powerful **Neural Machine Translation (NMT)** web application built using **St
 
 ---
 
-## 🚀 Live Features
+## Application Features
 
-✨ Translate text across 20+ global languages  
-📄 Upload `.txt` and `.docx` documents  
-🔠 Automatic Abbreviation Expansion (WHO → World Health Organization)  
-🎭 Emotion Detection (Anger, Joy, Sadness, etc.)  
-📊 Emotion Probability Graph  
-⚡ Fast UI with Streamlit  
+1. Translate text across 20+ global languages
+2. Upload `.txt` and `.docx` documents
+3. Automatic Abbreviation Expansion (WHO → World Health Organization)
+4. Emotion Detection (Anger, Joy, Sadness, etc.)
+5. Emotion Probability Graph
+6. Fast UI with Streamlit  
 
 ---
 
