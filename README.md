@@ -4,7 +4,9 @@ A powerful **Neural Machine Translation (NMT)** web application built using **St
 
 ---
 
-## Live Features
+
+## Application Features
+
 
 1. Translate text across 20+ global languages
 2. Upload `.txt` and `.docx` documents
