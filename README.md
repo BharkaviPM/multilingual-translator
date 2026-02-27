@@ -13,7 +13,7 @@ A powerful **Neural Machine Translation (NMT)** web application built using **St
 3. Automatic Abbreviation Expansion (WHO → World Health Organization)
 4. Emotion Detection (Anger, Joy, Sadness, etc.)
 5. Emotion Probability Graph
-6. Fast UI with Streamlit  
+6. Fast UI with Streamlit 
 
 ---
 
